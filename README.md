@@ -44,3 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 This site was deployed to Netlify. In order to redeploy to the production server, you run the following command using the Netlify CLI:
 
 ### `netlify deploy --prod`
+
+The site can be viewed at the following URL: https://githubfinder-hamill.netlify.app/
